@@ -1,0 +1,13 @@
+pydub
+librosa
+soundfile
+wave
+tensorflow
+keras
+scipy
+numpy
+pandas
+Matplotlib
+Seaborn
+FFmpeg
+Pillow
